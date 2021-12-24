@@ -136,11 +136,18 @@ var APP_DATA = {
         "pitch": 0.0015144238919475583,
         "fov": 1.2344983363832869
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -0.3367797963744419,
+          "pitch": 0.1837717143551032,
+          "rotation": 0,
+          "target": "1-conservatory-foyer"
+        }
+      ],
       "infoHotspots": [
         {
-          "yaw": 2.4238038041513894,
-          "pitch": 0.25962484124714535,
+          "yaw": 2.4615787885463103,
+          "pitch": 0.3334602885786211,
           "title": "Conservatory Lounge",
           "text": "The Conservatory Lounge is a comfortable space that invites visitors to sit down, relax and take in their surroundings. The Lounge is suitable for VIP cocktail receptions of not more than 100 persons."
         },
